@@ -5,8 +5,8 @@ import SubNav from "./SubNav";
 import SocialProfiles from "./SocialProfiles";
 import { BsFileEarmarkCheckFill } from "react-icons/bs";
 import { IoMail } from "react-icons/io5";
-import Vector from "../assets/Vector.png";
-import { FaBars, FaChevronLeft, FaChevronRight } from "react-icons/fa";
+import Vector from "../assets/vector.png";
+import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 const SubNavigationLinks = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
